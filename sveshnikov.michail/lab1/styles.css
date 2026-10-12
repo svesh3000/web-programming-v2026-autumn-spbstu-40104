@@ -15,7 +15,7 @@ body {
 }
 
 .bread-crumbs li:not(:last-child)::after {
-  content: ">";
+  content: '>';
   margin: 0 8px;
 }
 
@@ -28,6 +28,6 @@ body {
   text-decoration: underline;
 }
 
-.last_element {
+.last-element {
   color: #333;
 }
